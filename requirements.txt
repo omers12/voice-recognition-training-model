@@ -1,0 +1,5 @@
+speechbrain
+torch
+torchaudio
+numpy
+scipy
